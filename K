@@ -50,7 +50,7 @@ _G.ZapHubBoothsSniperSettings = {
 
     ServerHop = {
         Enabled = true,
-        Type = "Normal",
+        Type = "Both",
     },
 
     Webhook = {
