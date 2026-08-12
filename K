@@ -29,7 +29,7 @@ _G.ZapHubBoothsSniperSettings = {
                 Enabled = true,
                 Tier = nil,
                 Shiny = nil,
-                MaxPrice = 800000000,
+                MaxPrice = 200000000,
                 PercentageProfit = 25,
                 BlackList = {},
             },
