@@ -55,7 +55,7 @@ _G.ZapHubBoothsSniperSettings = {
 
     Webhook = {
         Enabled = true,
-        WebhookURL = "https://discord.com/api/webhooks/1533866440678183097/NTEoUGV7lfNwCYELPxfml9nT4WxGP73Le0lBNQP7OyELPB0Y-Z9vProW9o3ftDUHqEd6",
+        WebhookURL = "https://discord.com/api/webhooks/1534732700412285123/Q44NSeWjULmTs9qmd487ji1g5zhhO9M0o1_IHOTie5VcwB1TGuJGM8V2YIxqbQSra1u0",
     },
 }
 
